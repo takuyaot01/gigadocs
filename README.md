@@ -20,9 +20,9 @@
 
 | 資料 | レベル | 資料の版 | ダウンロード |
 | :--- | :---: | :---: | :---: |
-| 教育プラットフォーム概要 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/M365 - 教育プラットフォーム概要 EDU 版 (L100).pdf>) |
-| Office 365 概要 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/Office - Office 365 概要 EDU 版 (L100).pdf>) |
-| iPad x Microsoft 365 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/M365 - M365 x iPad 概要 EDU 版 (L100).pdf>) |
+| 教育プラットフォーム概要 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/M365 - 教育プラットフォーム概要 EDU 版 (L100).pdf?raw=true>) |
+| Office 365 概要 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/Office - Office 365 概要 EDU 版 (L100).pdf?raw=true>) |
+| iPad x Microsoft 365 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/M365 - M365 x iPad 概要 EDU 版 (L100).pdf?raw=true>) |
 
 <a id="windows"></a>
 
@@ -30,10 +30,10 @@
 
 | 資料 | レベル | 資料の版 | ダウンロード |
 | :--- | :---: | :---: | :---: |
-| モダン管理概要 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/Windows - モダン管理概要 EDU 版 (L100).pdf>) |
-| Windows の展開手法 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/Windows - Windows の展開手法 EDU 版 (L100).pdf>) |
-| Windows の更新管理 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/Windows - Windows の更新管理 EDU 版 (L100).pdf>) |
-| Windows のウイルス対策 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/Windows - Windows のウイルス対策 EDU 版 (L100).pdf>) |
+| モダン管理概要 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/Windows - モダン管理概要 EDU 版 (L100).pdf?raw=true>) |
+| Windows の展開手法 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/Windows - Windows の展開手法 EDU 版 (L100).pdf?raw=true>) |
+| Windows の更新管理 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/Windows - Windows の更新管理 EDU 版 (L100).pdf?raw=true>) |
+| Windows のウイルス対策 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/Windows - Windows のウイルス対策 EDU 版 (L100).pdf?raw=true>) |
 
 <a id="management"></a>
 
@@ -41,10 +41,10 @@
 
 | 資料 | レベル | 資料の版 | ダウンロード |
 | :--- | :---: | :---: | :---: |
-| Azure AD 概要 | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/EMS - Azue AD 概要 EDU 版 (L100).pdf>) |
-| Intune for Education | L100 | 2020 年 8 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/EMS - Intune 概要 EDU 版 (L100).pdf>) |
-| Azure AD ユーザー登録・管理 — PowerShell 編 | L200 | 2020 年 9 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/EMS - Azue AD ユーザー登録・管理 - PowerShell 編 EDU 版 (L200).pdf>) |
-| Azure AD のパスワード考慮 | L200 | 2020 年 9 月 | [PDF ↓](<https://github.com/takuyaot01/gigadocs/raw/master/EMS - Azue AD パスワード要件 EDU 版 (L200).pdf>) |
+| Azure AD 概要 | L100 | 2020 年 8 月 | [PDF ↓](<./slides/EMS - Azue AD 概要 EDU 版 (L100).pdf?raw=true>) |
+| Intune for Education | L100 | 2020 年 8 月 | [PDF ↓](<./slides/EMS - Intune 概要 EDU 版 (L100).pdf?raw=true>) |
+| Azure AD ユーザー登録・管理 — PowerShell 編 | L200 | 2020 年 9 月 | [PDF ↓](<./slides/EMS - Azue AD ユーザー登録・管理 - PowerShell 編 EDU 版 (L200).pdf?raw=true>) |
+| Azure AD のパスワード考慮 | L200 | 2020 年 9 月 | [PDF ↓](<./slides/EMS - Azue AD パスワード要件 EDU 版 (L200).pdf?raw=true>) |
 
 ## 関連リンク
 
